@@ -8,7 +8,7 @@ public class solidrhombus {
             for(int i = 1; i <= n; i++) {
 
                 // spaces
-                for(int j = 1; j <= (n - i); j++) { // yhi hai bss isme ky hai ki ek extra n-i bhi hai bss 
+                for(int j = 1; j <= (n - i); j++) { // yhi hai bss isme ky hai ki ek extra n-i bhi hai bss
                     System.out.print(" ");
                 }
 
