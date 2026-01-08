@@ -7,9 +7,10 @@ public class BinaryDecimal {
 
         while (bin > 0) {
             int lastDigit = bin % 10;      // last binary digit
-            decimal = decimal + lastDigit * (int)Math.pow(2, pow);
+            decimal = decimal + lastDigit * (int) Math.pow(2, pow);
             pow++;
             bin = bin / 10;
         }
         return decimal;
     }
+}
