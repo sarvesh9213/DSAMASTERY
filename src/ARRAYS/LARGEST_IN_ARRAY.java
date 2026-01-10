@@ -2,7 +2,7 @@ package ARRAYS;
 import java.util.*;
 
 public class LARGEST_IN_ARRAY {
-    
+
 
 
     // Largest Number in Array
