@@ -2,7 +2,7 @@ package ARRAYS;
 import java.util.*;
 
 public class BINARY_SEARCH {
-   
+
 
 
 
