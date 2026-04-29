@@ -8,7 +8,7 @@
 //                min = arr[i];
 //            }
 //        }
-//        result.add(min);
+//        result.add(min);6tgv
 //        int max = Integer.MIN_VALUE;
 //        for (int i = 0 ; i < arr.length ; i++){
 //            if ( arr[i]>max){
