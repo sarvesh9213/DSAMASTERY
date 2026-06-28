@@ -9,7 +9,7 @@
 //
 //            for (int i = 0; i < n; i++) {
 //
-//                while (!st.isEmpty() && st.peek() <= arr[i]) {
+//                while (!st.isEmpty() && st.peek() <= arr[i]) { // >= for the prev smaller 
 //                    st.pop();
 //                }
 //
