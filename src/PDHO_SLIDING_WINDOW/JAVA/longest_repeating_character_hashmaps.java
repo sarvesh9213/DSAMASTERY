@@ -18,7 +18,7 @@
 //            for (int value : map.values()) {
 //                maxCount = Math.max(maxCount, value);
 //            }
-// 
+//
 //            int len = high - low + 1;
 //
 //            while (len - maxCount > k) {
